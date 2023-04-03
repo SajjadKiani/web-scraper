@@ -1,3 +1,4 @@
+import fetch from "node-fetch";
 
 export async function login(username, password) {
     try {

@@ -3,6 +3,7 @@
     "dom-parser": "^0.1.6",
     "dotenv": "^16.0.3",
     "jsdom": "^21.1.1",
+    "node-fetch": "^3.3.1",
     "node-telegram-bot-api": "^0.61.0"
   },
   "type": "module"
